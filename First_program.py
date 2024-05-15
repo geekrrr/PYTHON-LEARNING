@@ -1,0 +1,7 @@
+print("Hi Explorer My name of ROHIT RANA")
+print("I am a resident from Punjab , The most happest state for me")
+print("Rich in culture and has the most beautiful language")
+print("From now I am starting to learn python")
+print("I will surely give my utmost attention towards python leaning")
+print("One day I will be a master in python for sure!!!")
+print("Let's Start.... ")
